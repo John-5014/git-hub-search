@@ -13,6 +13,7 @@ export class ProfileService {
 
   private username: string;
 
+  // tslint:disable-next-line: variable-name
   private access_token = '2c900f56e6f75b8b13eb1311b8aa249da7ffc721';
 
   constructor(private http: HttpClient) {
@@ -39,6 +40,7 @@ export class ProfileService {
 
   }
 
+   // tslint:disable-next-line: no-trailing-whitespace
    
 
 }
