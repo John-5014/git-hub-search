@@ -19,6 +19,15 @@ Run `ng generate component component-name` to generate a new component. You can 
 * A computer or network access device
 * link to the website or the url
 
+
+##TECHNOLOGIES USED
+
+-Bootstrap
+-Angular
+-Html
+-Css
+-Javascript
+
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
@@ -32,7 +41,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Known Bugs
-The page had problems with redirecting the view repositories
+The page had problems with redirecting the view repositories using the buttons
 
 ## Further help
 
